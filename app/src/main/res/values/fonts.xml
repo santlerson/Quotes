@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="fonts">
+        <item type="font">@font/sans</item>
+        <item type="font">@font/serif</item>
+        <item type="font">@font/great_vibes</item>
+        <item type="font">@font/eutemia</item>
+        <item type="font">@font/pricedown</item>
+        <item type="font">@font/anglican</item>
+        <item type="font">@font/aguafina</item>
+
+
+
+
+    </array>
+
+</resources>

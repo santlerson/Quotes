@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <array name="color_pair_array">
+        <item>@array/black_on_white</item>
+        <item>@array/white_on_black</item>
+        <item>@array/green_on_blue</item>
+        <item>@array/purple_on_pink</item>
+
+    </array>
+
+
+    <array name="black_on_white">
+        <item>#000</item>
+        <item>#FFF</item>
+    </array>
+    <array name="white_on_black">
+        <item>#FFF</item>
+        <item>#000</item>
+    </array>
+    <array name="green_on_blue">
+        <item>#328132</item>
+        <item>#00E1FF</item>
+    </array>
+    <array name="purple_on_pink">
+        <item>#673AB7</item>
+        <item>#FF80AB</item>
+    </array>
+</resources>
